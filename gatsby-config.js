@@ -7,7 +7,15 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    
+    siteTitle: `Shane Thomas`,
+    siteTitleAlt: `Shane Thomas - Developer, Entrepreneur, Aspiring Musician`,
+    siteHeadline: `Shane Thomas`,
+    siteUrl: `https://shanemichaelthomas.com`,
+    siteDescription: `Learn more about Shane Thomas`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `Shane Thomas`,
   },
   plugins: [
     {
